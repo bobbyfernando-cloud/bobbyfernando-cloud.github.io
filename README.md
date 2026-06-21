@@ -14,7 +14,7 @@ Single-page portfolio yang menampilkan:
 - Proyek independen (budgeting, cost control analysis)
 - Keahlian (audit, finance, SQL, Python)
 - Pendidikan
-- Tautan unduh CV (PDF & DOCX)
+- Tautan unduh CV (PDF)
 
 ## Struktur
 
@@ -24,8 +24,7 @@ Single-page portfolio yang menampilkan:
 ├── style.css                # Styling (navy/cyan theme)
 ├── main.js                  # Interaktivitas (nav aktif, animasi, mobile menu)
 ├── profile-navy.jpg         # Foto profil
-├── Bobby-Fernando-CV.pdf
-├── Bobby-Fernando-CV.docx
+├── Bobby-Fernando-CV.pdf    # CV Bobby Fernando (PDF)
 └── README.md
 ```
 
